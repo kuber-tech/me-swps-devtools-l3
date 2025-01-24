@@ -6,7 +6,7 @@ ls -l
 
 **Exercise 2**
 ```bash
--lhSr
+ls -lhSr /var/log
 ```
 
 **Exercise 3**
@@ -31,5 +31,5 @@ cat lastname.txt >> firstname.txt
 
 **Exercise 7**
 ```bash
-
+ls -d ~/*/ > folders.txt
 ```
